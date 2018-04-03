@@ -1,4 +1,6 @@
-<style>
+  html {
+    overflow-x: hidden;
+  }
 
   body {
     margin: 0;
@@ -477,5 +479,3 @@
   .scale-up {
     transform: scale(1.1);
   }
-  
-</style>
