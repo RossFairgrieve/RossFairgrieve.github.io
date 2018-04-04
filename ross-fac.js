@@ -88,11 +88,11 @@
       var audio = document.querySelector(`.ashford${(Math.floor(Math.random() * 8) + 1)}`);
       audio.play();
       letters = [];
-      document.querySelector('.ashford').classList.remove('hidden');
-      document.querySelector('.ashford').classList.add('scale-up');
-      setTimeout(function () {
-        document.querySelector('.ashford').classList.remove('scale-up');
-      }, 1000);
+      // document.querySelector('.ashford').classList.remove('hidden');
+      // document.querySelector('.ashford').classList.add('scale-up');
+      // setTimeout(function () {
+      //   document.querySelector('.ashford').classList.remove('scale-up');
+      // }, 1000);
     }
   }
 
