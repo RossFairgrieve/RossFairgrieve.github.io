@@ -98,14 +98,14 @@ p {
 
 
 
-#container-1000 {
+.container-1000 {
   width: 100%;
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
 }
 
-#container-1200 {
+.container-1200 {
   width: 100%;
   max-width: 1200px;
   margin-left: auto;
